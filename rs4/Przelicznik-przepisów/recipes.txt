@@ -1,0 +1,50 @@
+Farsz na Pierogi Ruskie:
+Ser: 0.25
+Ziemniaki: 0.625
+Cebula: 0.0625
+Masło: 0.05
+Sól: 0.0125
+Pieprz: 0.003125
+
+Farsz na Pierogi z kapustą:
+Kapusta: 0.985
+Masło: 0.015
+
+Pierogi z mięsem:
+Mięso: 0.6070
+Ziemniaki: 0.2432
+Cebula: 0.0608
+Masło: 0.0729
+Sól: 0.0122
+Pieprz: 0.003
+
+EKO Naleśniki:
+Mleko: 0.1
+Woda: 0.23
+Olej: 0.05
+Jajka: 0.046
+Mąka: 0.28
+Cukier: 0.05
+Sól: 0.0008
+
+Pierogi Leniwe:
+Ser: 0.478
+Mąka: 0.143
+Ziemniaki: 0.335
+Jajka: 0.027
+Mąka ziemniaczana: 0.01
+Sól: 0.007
+
+Farsz na Pierogi z kapustą i grzybami:
+Kapusta: 0.881057
+Grzyby: 0.105727
+Masło: 0.013216
+
+Pierogi z serem:
+Ser: 0.776
+Ziemniaki: 0.086
+Cukier: 0.121
+Cukier Waniliowy: 0.017
+
+
+
